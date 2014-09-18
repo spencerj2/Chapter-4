@@ -1,0 +1,8 @@
+C:\Users\Cody\AppData\Local\Temporary Projects\GetVowel\bin\Debug\GetVowel.exe
+C:\Users\Cody\AppData\Local\Temporary Projects\GetVowel\bin\Debug\GetVowel.pdb
+C:\Users\Cody\AppData\Local\Temporary Projects\GetVowel\obj\x86\Debug\GetVowel.exe
+C:\Users\Cody\AppData\Local\Temporary Projects\GetVowel\obj\x86\Debug\GetVowel.pdb
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\GetVowel\obj\x86\Debug\GetVowel.exe
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\GetVowel\obj\x86\Debug\GetVowel.pdb
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\GetVowel\bin\Debug\GetVowel.exe
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\GetVowel\bin\Debug\GetVowel.pdb

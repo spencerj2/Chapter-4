@@ -1,0 +1,4 @@
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\Sum\bin\Debug\Sum.exe
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\Sum\bin\Debug\Sum.pdb
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\Sum\obj\x86\Debug\Sum.exe
+C:\Users\Cody\Documents\GitHub\Chapter-4\GetVowel\Sum\obj\x86\Debug\Sum.pdb
