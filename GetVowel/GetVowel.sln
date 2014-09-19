@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel", "GetVowel\GetVow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{2DA20E8C-3D3D-443B-94DE-DA5FD424211A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{C0D0AD3E-12EC-4BB2-9FF0-219261039A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvernNums", "EvernNums\EvernNums.csproj", "{B026C8B1-76D4-432E-9A42-27083F3D7B5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +23,14 @@ Global
 		{2DA20E8C-3D3D-443B-94DE-DA5FD424211A}.Debug|x86.Build.0 = Debug|x86
 		{2DA20E8C-3D3D-443B-94DE-DA5FD424211A}.Release|x86.ActiveCfg = Release|x86
 		{2DA20E8C-3D3D-443B-94DE-DA5FD424211A}.Release|x86.Build.0 = Release|x86
+		{C0D0AD3E-12EC-4BB2-9FF0-219261039A6E}.Debug|x86.ActiveCfg = Debug|x86
+		{C0D0AD3E-12EC-4BB2-9FF0-219261039A6E}.Debug|x86.Build.0 = Debug|x86
+		{C0D0AD3E-12EC-4BB2-9FF0-219261039A6E}.Release|x86.ActiveCfg = Release|x86
+		{C0D0AD3E-12EC-4BB2-9FF0-219261039A6E}.Release|x86.Build.0 = Release|x86
+		{B026C8B1-76D4-432E-9A42-27083F3D7B5E}.Debug|x86.ActiveCfg = Debug|x86
+		{B026C8B1-76D4-432E-9A42-27083F3D7B5E}.Debug|x86.Build.0 = Debug|x86
+		{B026C8B1-76D4-432E-9A42-27083F3D7B5E}.Release|x86.ActiveCfg = Release|x86
+		{B026C8B1-76D4-432E-9A42-27083F3D7B5E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

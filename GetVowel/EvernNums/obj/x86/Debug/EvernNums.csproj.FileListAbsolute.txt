@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-4\GetVowel\EvernNums\bin\Debug\EvernNums.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\GetVowel\EvernNums\bin\Debug\EvernNums.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-4\GetVowel\EvernNums\obj\x86\Debug\EvernNums.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-4\GetVowel\EvernNums\obj\x86\Debug\EvernNums.pdb

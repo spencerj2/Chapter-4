@@ -13,12 +13,13 @@ namespace Sum
             bool Valid = true;
             while (Valid == true)
             {
-                float num = Convert.ToInt32(Console.ReadLine());
-                float sum = num += num;
+                double num = Convert.ToDouble(Console.ReadLine());
+                double sum = num += num;
                 Console.WriteLine(sum);
-                if (num == 999)
+                if (num >= 999)
                 {
                     Valid = false;
+                    break;
                 }
             }
 
